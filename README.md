@@ -1,5 +1,7 @@
 # Create-proses-di-windows
-Tugas 2 Sistem Operasi
+# Tugas 2 Sistem Operasi
+# Nama  : Rony Zeinul Huda
+# NIM   : 14201198 
 
 #include <stdio.h>
 #include <windows.h>
